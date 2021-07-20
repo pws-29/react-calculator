@@ -6,9 +6,16 @@
     <h4>
       Projeto desenvolvido durante o curso "Web Moderno Completo com JavaScript 2021" disponibilizado pela <b>COD3R</b>.
     </h4>
+    <br>
+    <br>
 
-  <img  width="100%"  src="https://imgur.com/a/uZjQeHA">
+  <img   src="./public/calc.png">
+   
+   ---
+
 </div>
+  <br>
+  <br>
 
 <h2 id="conteudos">Conteúdos</h2>
 
